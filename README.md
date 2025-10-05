@@ -2,11 +2,6 @@
 
 This is the repository for the TaskFlow landing page, a modern, responsive, and animated single-page application built with React and Tailwind CSS.
 
-**[Link to Live Demo]** - _(You can add this link after you deploy the project)_
-
-![TaskFlow Screenshot](./taskflow-screenshot.png)
-_(Suggestion: Take a screenshot of your running application and save it as `taskflow-screenshot.png` in the root directory)_
-
 ---
 
 ## About The Project
@@ -52,7 +47,7 @@ You need to have Node.js and npm installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
+    git clone [https://github.com/kamal-bahaa/taskflow-landing-page.git](https://github.com/kamal-bahaa/taskflow-landing-page.git)
     ```
 2.  Navigate to the project directory
     ```sh

@@ -3,7 +3,7 @@
 This is the repository for the OrgaEasy landing page, a modern, responsive, and animated single-page application built with React and Tailwind CSS.
 
 
-**[ Live Demo ]((https://orgaeasy-landing-page-elevvo.netlify.app/))**
+**[ Live Demo ](https://orgaeasy-landing-page-elevvo.netlify.app/)**
 ---
 
 ## About The Project

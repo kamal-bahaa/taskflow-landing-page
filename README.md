@@ -1,14 +1,14 @@
-# TaskFlow - A Modern Landing Page
+# OrgaEasy - A Modern Landing Page
 
-This is the repository for the TaskFlow landing page, a modern, responsive, and animated single-page application built with React and Tailwind CSS.
+This is the repository for the OrgaEasy landing page, a modern, responsive, and animated single-page application built with React and Tailwind CSS.
 
 
-**[ Live Demo ](https://taskflow-landing-page-elevvo.netlify.app/)**
+**[ Live Demo ]((https://orgaeasy-landing-page-elevvo.netlify.app/))**
 ---
 
 ## About The Project
 
-TaskFlow is a beautifully designed landing page for a fictional productivity application. It showcases a variety of modern web development techniques, with a strong focus on a smooth user experience through animations and a clean UI.
+OrgaEasy is a beautifully designed landing page for a fictional productivity application. It showcases a variety of modern web development techniques, with a strong focus on a smooth user experience through animations and a clean UI.
 
 ### Key Features
 
@@ -49,11 +49,11 @@ You need to have Node.js and npm installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/kamal-bahaa/taskflow-landing-page.git](https://github.com/kamal-bahaa/taskflow-landing-page.git)
+    git clone [https://github.com/kamal-bahaa/OrgaEasy.git](https://github.com/kamal-bahaa/taskflow-landing-page.git)
     ```
 2.  Navigate to the project directory
     ```sh
-    cd taskflow-app
+    cd OrgaEasy-app
     ```
 3.  Install NPM packages
     ```sh

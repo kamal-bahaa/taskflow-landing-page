@@ -30,7 +30,7 @@ const Header = () => {
           <h1 className={`text-2xl font-bold transition-colors duration-300 ${
             scrolled ? 'text-blue-600' : 'text-white'
           }`}>
-            TaskFlow
+            OrgaEasy
           </h1>
           <button className={`px-6 py-2 rounded-full font-semibold transition-all duration-300 hover:scale-105 transform ${
             scrolled 
@@ -55,7 +55,7 @@ const Header = () => {
         <p className={`text-xl md:text-2xl text-blue-100 mb-10 transition-all duration-1000 delay-200 ${
           isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
         }`}>
-          TaskFlow helps you manage tasks effortlessly with smart features designed for modern professionals
+          OrgaEasy helps you manage tasks effortlessly with smart features designed for modern professionals
         </p>
         <div className={`flex flex-col sm:flex-row gap-4 justify-center transition-all duration-1000 delay-400 ${
           isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'

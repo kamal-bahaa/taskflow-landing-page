@@ -41,7 +41,7 @@ const Footer = () => {
             isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'
           }`}>
             <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              TaskFlow
+              OrgaEasy
             </h3>
             <p className="text-gray-400 leading-relaxed">
               Empowering professionals to achieve more through intelligent task management and seamless collaboration.
@@ -56,7 +56,7 @@ const Footer = () => {
             </h4>
             <div className="space-y-3">
               <a 
-                href="mailto:hello@taskflow.com" 
+                href="mailto:hello@OrgaEasy.com" 
                 className="flex items-center text-gray-400 hover:text-blue-400 transition-colors duration-300"
               >
                 <FaEnvelope className="mr-3" />
@@ -108,7 +108,7 @@ const Footer = () => {
           isVisible ? 'opacity-100' : 'opacity-0'
         }`}>
           <p className="text-gray-400">
-            © 2025 TaskFlow. All rights reserved. Made with ❤️ for productivity enthusiasts.
+            © 2025 OrgaEasy. All rights reserved. Made with ❤️ for productivity enthusiasts.
           </p>
         </div>
       </div>

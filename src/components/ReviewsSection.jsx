@@ -49,21 +49,21 @@ const ReviewsSection = () => {
           <Review 
             name="Ahmed Bahaa" 
             role="Product Manager" 
-            review="TaskFlow has completely transformed how I manage my daily tasks. The interface is intuitive and the features are exactly what I needed!"
+            review="OrgaEasy has completely transformed how I manage my daily tasks. The interface is intuitive and the features are exactly what I needed!"
             delay={70}
             isParentVisible={isVisible}
           />
           <Review 
             name="Kareem mohamed" 
             role="Software Developer" 
-            review="As a developer, I appreciate how efficient and fast TaskFlow is. It integrates perfectly with my workflow and helps me stay organized."
+            review="As a developer, I appreciate how efficient and fast OrgaEasy is. It integrates perfectly with my workflow and helps me stay organized."
             delay={80}
             isParentVisible={isVisible}
           />
           <Review 
             name="Youssef Ragab" 
             role="Marketing Director" 
-            review="Our team's productivity has increased by 40% since we started using TaskFlow. The collaboration features are outstanding!"
+            review="Our team's productivity has increased by 40% since we started using OrgaEasy. The collaboration features are outstanding!"
             delay={90}
             isParentVisible={isVisible}
           />

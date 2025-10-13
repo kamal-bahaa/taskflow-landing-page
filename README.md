@@ -49,7 +49,7 @@ You need to have Node.js and npm installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/kamal-bahaa/OrgaEasy.git](https://github.com/kamal-bahaa/taskflow-landing-page.git)
+    git clone [https://github.com/kamal-bahaa/OrgaEasy.git]
     ```
 2.  Navigate to the project directory
     ```sh
